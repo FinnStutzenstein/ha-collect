@@ -10,4 +10,5 @@
 .venv/*
 
 collect.log
+collect.sh
 stats.csv
