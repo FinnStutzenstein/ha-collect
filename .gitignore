@@ -1,0 +1,13 @@
+# General
+*.pyc
+*.swp
+*.swo
+*.log
+*~
+
+# Virtual Environment
+.virtualenv*/*
+.venv/*
+
+collect.log
+stats.csv
